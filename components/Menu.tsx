@@ -32,7 +32,7 @@ export const Menu = () => {
       <nav>
         <div
           className={
-            "z-50 h-screen fixed top-0  shadow-2xl  bg-white w-72 flex flex-col justify-between " +
+            "z-50 h-screen fixed top-0  shadow-2xl  bg-white w-72 flex flex-col justify-between transition-all " +
             left
           }
         >
