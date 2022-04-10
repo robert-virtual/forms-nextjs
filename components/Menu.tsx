@@ -125,7 +125,7 @@ export const Menu = () => {
                 </Link>
               </li>
               <li>
-                <Link href={"/documents"}>
+                <Link href={"/"}>
                   <div className="btn-link text-purple-600">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
