@@ -30,7 +30,7 @@ export const Menu = () => {
           </svg>
         </button>
       </nav>
-      <nav className={"" + left}>
+      <nav>
         <div
           className={
             "z-50 h-screen fixed top-0  shadow-2xl  bg-white w-72 flex flex-col justify-between " +

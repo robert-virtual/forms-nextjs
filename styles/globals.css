@@ -10,7 +10,7 @@ hr {
 }
 @layer components {
   .btn-link {
-    @apply flex flex-row px-4 py-2 text-gray-600  hover:bg-gray-100 rounded-r-full transition-all w-11/12;
+    @apply flex flex-row px-4 py-2 text-gray-600  hover:bg-gray-100 rounded-r-full transition-all w-11/12 cursor-pointer;
   }
   .btn-link span {
     @apply ml-2 text-gray-600;
